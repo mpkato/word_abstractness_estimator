@@ -1,0 +1,6 @@
+fabric
+nltk
+ipython
+pyzmq
+jinja2
+tornado
